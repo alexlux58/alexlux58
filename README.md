@@ -5,8 +5,10 @@
 <img src="Github-Assets/attack-on-titan-funny.gif" width="100px" height="100px"/>&emsp;&emsp;
 <img src="Github-Assets/weightlifting-lifting-weights.gif" width="100px" height="100px"/>&emsp;&emsp;
 <img src="Github-Assets/hacker-python.gif" width="100px" height="100px"/>&emsp;&emsp;
+<img src="Github-Assets/mriglesias-gabriel.gif" width="100px" height="100px"/>&emsp;&emsp;
+
 </div>
-&emsp; Caffeine &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Anime &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Fitness &emsp;&emsp;&emsp;&emsp;&emsp; Coding/CTF
+&emsp; Caffeine &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Anime &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Fitness &emsp;&emsp;&emsp;&emsp;&emsp; Coding/CTF &emsp;&emsp;&emsp;&emsp;&emsp; Stand Up Comedy
 
 <!--
 <div style="justify-content:space-evenly;">
