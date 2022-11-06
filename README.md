@@ -17,7 +17,13 @@ Hi my name is Alex Lux a CS grad based out of California.<br />
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="alexlux58" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
+<a href ="mailto:abc@example.com?subject=From Github &body = Hi Alex!">
+Let's Chat
+</a>
 
 <!--
 **alexlux58/alexlux58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
