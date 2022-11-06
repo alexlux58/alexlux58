@@ -1,8 +1,10 @@
 ### Software Engineer
 <div style="border:50px; color:black;">
+  <h2> Interests </h2>
 <img src="Github-Assets/coffee.gif" width="100px" height="100px" style="border:50px; color:black;" />
+<img src="" />
 </div>
-
+<hr/>
 <code>A lil about me: </code><br />
 Hi my name is Alex Lux a CS grad based out of California.<br />
 &emsp;🔥 I thrive on challanges in an effort to achive more and better myself.<br />
