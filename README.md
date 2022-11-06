@@ -21,8 +21,8 @@ Hi my name is Alex Lux a CS grad based out of California.<br />
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href ="mailto:abc@example.com?subject=From Github &body = Hi Alex!">
-Let's Chat
+<a href ="mailto:alexlux58@gmail.com?subject=From Github">
+Let's Chat 💭
 </a>
 
 <!--
