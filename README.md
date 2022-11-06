@@ -1,4 +1,8 @@
 ### Software Engineer
+<div style="border:50px; color:black;">
+<img src="Github-Assets/coffee.gif" width="100px" height="100px" style="border:50px; color:black;" />
+</div>
+
 <code>A lil about me: </code><br />
 Hi my name is Alex Lux a CS grad based out of California.<br />
 &emsp;🔥 I thrive on challanges in an effort to achive more and better myself.<br />
@@ -9,7 +13,9 @@ Hi my name is Alex Lux a CS grad based out of California.<br />
 <img src="https://visitor-badge.glitch.me/badge?page_id=alexlux58.visitor-badge&left_color=red&right_color=blue&left_text=visitors" /> 
 </div>
 
-
+<a href="https://www.linkedin.com/in/alex-lux/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
 
