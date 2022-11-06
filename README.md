@@ -26,7 +26,9 @@ Hi my name is Alex Lux a CS grad based out of California.<br />
 &emsp;🤝 I am a proponent for supporting others and sharing ideas in a team environment.<br />
 &emsp;👨‍💻 I have penchant for simplfying complexities.<br /> 
 
-<div align="center">
+
+<br/><br/>
+<div>
 <img src="https://visitor-badge.glitch.me/badge?page_id=alexlux58.visitor-badge&left_color=red&right_color=blue&left_text=visitors" /> 
 </div>
 
@@ -40,9 +42,10 @@ Hi my name is Alex Lux a CS grad based out of California.<br />
 </a>
 -->
 
-<a href ="mailto:alexlux58@gmail.com?subject=From Github">
+<a href="mailto:alexlux58@gmail.com?subject=From Github">
 Let's Chat 💭
 </a>
+
 
 <!--
 **alexlux58/alexlux58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
