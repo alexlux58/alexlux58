@@ -6,7 +6,7 @@
 <img src="Github-Assets/weightlifting-lifting-weights.gif" width="100px" height="100px"/>&emsp;&emsp;
 <img src="Github-Assets/hacker-python.gif" width="100px" height="100px"/>&emsp;&emsp;
 </div>
-&emsp; Caffeine &emsp;&emsp;&emsp;&emsp;&emsp; Anime &emsp;&emsp;&emsp;&emsp;&emsp; Fitness &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; CTF
+&emsp; Caffeine &emsp;&emsp;&emsp;&emsp;&emsp; Anime &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Fitness &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; CTF
 
 <!--
 <div style="justify-content:space-evenly;">
