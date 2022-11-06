@@ -1,9 +1,22 @@
 ### Software Engineer
 <div style="border:50px; color:black;">
   <h2> Interests </h2>
-<img src="Github-Assets/coffee.gif" width="100px" height="100px" style="border:50px; color:black;" />
-<img src="" />
+<img src="Github-Assets/coffee.gif" width="100px" height="100px" style="border:50px; color:black;" />&emsp;&emsp;
+<img src="Github-Assets/attack-on-titan-funny.gif" width="100px" height="100px"/>&emsp;&emsp;
+<img src="Github-Assets/weightlifting-lifting-weights.gif" width="100px" height="100px"/>&emsp;&emsp;
+<img src="Github-Assets/hacker-python.gif" width="100px" height="100px"/>&emsp;&emsp;
 </div>
+&emsp; Caffeine &emsp;&emsp;&emsp;&emsp;&emsp; Anime &emsp;&emsp;&emsp;&emsp;&emsp; Fitness &emsp;&emsp;&emsp;&emsp;&emsp; CTF
+
+<!--
+<div style="justify-content:space-evenly;">
+  <ul style="list-style-type:none;"> 
+    <li style="list-style-type:none;">Coffee</li>
+    <li style="list-style-type:none;">Anime</li>
+  </ul>
+</div>
+-->
+
 <hr/>
 <code>A lil about me: </code><br />
 Hi my name is Alex Lux a CS grad based out of California.<br />
