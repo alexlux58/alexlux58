@@ -17,9 +17,11 @@ Hi my name is Alex Lux a CS grad based out of California.<br />
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<!--
 <a href="alexlux58" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+-->
 
 <a href ="mailto:alexlux58@gmail.com?subject=From Github">
 Let's Chat 💭
