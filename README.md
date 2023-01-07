@@ -48,6 +48,7 @@ Let's Chat 💭
 </h5>
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
 <p>𝙱𝚊𝚌𝚔𝚎𝚗𝚍: </p>
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </h5>
@@ -70,4 +71,8 @@ Let's Chat 💭
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="[https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  </h5>
+  <h5>
+  <p>Testing:</p>
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   </h5>
