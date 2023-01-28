@@ -1,14 +1,14 @@
 ### Software Engineer
-<div style="border:50px; color:black;">
-  <h2> Interests </h2>
-<img src="Github-Assets/coffee.gif" width="100px" height="100px" style="border:50px; color:black;" />&emsp;&emsp;
-<img src="Github-Assets/attack-on-titan-funny.gif" width="100px" height="100px"/>&emsp;&emsp;
-<img src="Github-Assets/weightlifting-lifting-weights.gif" width="100px" height="100px"/>&emsp;&emsp;
-<img src="Github-Assets/hacker-python.gif" width="100px" height="100px"/>&emsp;&emsp;
-<img src="Github-Assets/mriglesias-gabriel.gif" width="100px" height="100px"/>&emsp;&emsp;
-
+<div style="border:50px; color:black;display: inline;">
+ <h2> Interests </h2>
+  
+ *Caffiene* | *Anime* | *Fitness* | *Coding/CTF* | *Stand Up Comedy* |
+:---:|:---:|:---:|:---:|:---:|
+<img src="Github-Assets/coffee.gif" width="100px" height="100px" />  |  <img src="Github-Assets/attack-on-titan-funny.gif" width="100px" height="100px" /> | <img src="Github-Assets/weightlifting-lifting-weights.gif" width="100px" height="100px"/> | <img src="Github-Assets/hacker-python.gif" width="100px" height="100px"/> | <img src="Github-Assets/mriglesias-gabriel.gif" width="100px" height="100px"/>
+  
 </div>
-&emsp; Caffeine &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Anime &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Fitness &emsp;&emsp;&emsp;&emsp;&emsp; Coding/CTF &emsp;&emsp; Stand Up Comedy
+   
+
 
 <hr/>
 <code>A lil about me: </code><br />
