@@ -13,7 +13,7 @@
 
 <hr/>
 
-<script src="https://tryhackme.com/badge/939341"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/aflux.png" alt="TryHackMe">
 
 Hi my name is Alex Lux a CS grad based out of California.<br />
 &emsp;🔥 I thrive on challanges in an effort to achive more and better myself.<br />
