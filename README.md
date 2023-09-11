@@ -13,6 +13,8 @@
 
 <hr/>
 
+<script src="https://tryhackme.com/badge/939341"></script>
+
 Hi my name is Alex Lux a CS grad based out of California.<br />
 &emsp;🔥 I thrive on challanges in an effort to achive more and better myself.<br />
 &emsp;🤝 I am a proponent for supporting others and sharing ideas in a team environment.<br />
