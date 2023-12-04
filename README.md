@@ -14,12 +14,12 @@
 <hr/>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/aflux.png" alt="TryHackMe">
-
+<!--
 Hi my name is Alex Lux a CS grad based out of California.<br />
 &emsp;🔥 I thrive on challanges in an effort to achive more and better myself.<br />
 &emsp;🤝 I am a proponent for supporting others and sharing ideas in a team environment.<br />
 &emsp;👨‍💻 I have penchant for simplfying complexities.<br /> 
-
+ -->
 <hr/>
 
 <a href="https://www.linkedin.com/in/alex-lux/" target="_blank">
