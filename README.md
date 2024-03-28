@@ -14,6 +14,11 @@
 <hr/>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/aflux.png" alt="TryHackMe">
+
+[![My Credly Badge](IMAGE_URL)](https://www.credly.com/badges/35a4b639-4dac-4a04-9b73-5cc7a3454422/public_url)
+
+
+
 <!--
 Hi my name is Alex Lux a CS grad based out of California.<br />
 &emsp;🔥 I thrive on challanges in an effort to achive more and better myself.<br />
