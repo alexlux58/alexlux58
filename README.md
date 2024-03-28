@@ -15,7 +15,13 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/aflux.png" alt="TryHackMe">
 
-[![My Credly Badge](IMAGE_URL)](https://www.credly.com/badges/35a4b639-4dac-4a04-9b73-5cc7a3454422/public_url)
+# Certifications
+
+<a href="https://www.credly.com/badges/35a4b639-4dac-4a04-9b73-5cc7a3454422/public_url" target="_blank">
+  <img src="https://raw.githubusercontent.com/alexlux58/alexlux58/main/Github-Assets/comptia-security-ce-certification.png" alt="CompTIA Security+ CE Certification" width="100px" height="100px" />
+</a>
+
+
 
 
 
