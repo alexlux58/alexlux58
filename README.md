@@ -17,15 +17,17 @@
 
 # Certifications
 
-<a href="https://www.credly.com/badges/35a4b639-4dac-4a04-9b73-5cc7a3454422/public_url" target="_blank">
-  <img src="https://raw.githubusercontent.com/alexlux58/alexlux58/main/Github-Assets/comptia-security-ce-certification.png" alt="CompTIA Security+ CE Certification" width="100px" height="100px" />
-</a>
-<a href="https://www.credly.com/badges/5486aed2-c53f-4b43-9e59-662083d04a24/public_url" target="_blank" style="background-color: white; display: inline-block; padding: 10px; border-radius: 5px;">
-  <img src="https://raw.githubusercontent.com/alexlux58/alexlux58/main/Github-Assets/ccna.png" alt="CCNA Certification" width="100px" height="100px" style="display: block; background-color: white;" />
-</a>
-<a href="https://www.credly.com/badges/746f91d6-1081-42cf-ab13-730eb4375adb/public_url" target="_blank" style="background-color: white; display: inline-block; padding: 10px; border-radius: 5px;">
-  <img src="https://raw.githubusercontent.com/alexlux58/alexlux58/main/Github-Assets/api-security-fundamentals.png" alt="CCNA Certification" width="100px" height="100px" style="display: block; background-color: white;" />
-</a>
+<div style="background-color: white;">
+  <a href="https://www.credly.com/badges/35a4b639-4dac-4a04-9b73-5cc7a3454422/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/alexlux58/alexlux58/main/Github-Assets/comptia-security-ce-certification.png" alt="CompTIA Security+ CE Certification" width="100px" height="100px" style="background-color: white; padding: 10px; border-radius: 5px;" />
+  </a>
+  <a href="https://www.credly.com/badges/5486aed2-c53f-4b43-9e59-662083d04a24/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/alexlux58/alexlux58/main/Github-Assets/ccna.png" alt="CCNA Certification" width="100px" height="100px" style="background-color: white; padding: 10px; border-radius: 5px;" />
+  </a>
+  <a href="https://www.credly.com/badges/746f91d6-1081-42cf-ab13-730eb4375adb/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/alexlux58/alexlux58/main/Github-Assets/api-security-fundamentals.png" alt="API Security Fundementals Certification" width="100px" height="100px" style="background-color: white; padding: 10px; border-radius: 5px;" />
+  </a>
+</div>
 
 
 
