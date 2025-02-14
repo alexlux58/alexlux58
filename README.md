@@ -23,7 +23,7 @@
   </a>
  
  <a href="https://www.credly.com/badges/3d6a27ff-e44c-434a-9de2-ca98ac77aa9e/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/alexlux58/alexlux58/main/Github-Assets/comptia-security-ce-certification.png" alt="CompTIA Linux+ CE Certification" width="100px" height="100px" style="background-color: white; padding: 10px; border-radius: 5px;" />
+    <img src="https://github.com/alexlux58/alexlux58/blob/main/Github-Assets/comptia-linux-ce-certification.png" alt="CompTIA Linux+ CE Certification" width="100px" height="100px" style="background-color: white; padding: 10px; border-radius: 5px;" />
   </a>
   <a href="https://www.credly.com/badges/5486aed2-c53f-4b43-9e59-662083d04a24/public_url" target="_blank">
     <img src="https://raw.githubusercontent.com/alexlux58/alexlux58/main/Github-Assets/ccna.png" alt="CCNA Certification" width="100px" height="100px" style="background-color: white; padding: 10px; border-radius: 5px;" />
